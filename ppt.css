@@ -1,0 +1,51 @@
+body{
+	width:700px;
+	heigh:1000px;
+}
+.nav p{
+	padding-left:20px;
+	color:grey;
+}
+.nav h1{
+	padding:30px;
+	color:blue;
+	font-size:40px;
+	font-weight:400;
+	padding-left:20px;
+	
+}
+.nav ul{
+	padding:5px;
+	padding-left:20px;
+	font-size:20px;
+	font-weight:300;
+	
+}
+.nav ul li{
+	padding:18px;
+
+	list-style:none;
+	
+}
+.navigation ul :hover{
+	color:gold;
+}
+.nav ul li{
+	color:red;
+}
+.pic{
+	padding:0px;
+}
+.stone{
+	content:"";
+	background-color:#efefef;
+	display:block;
+	height:2px;
+}
+.pic h2{
+     position: absolute;
+	 top:5%;
+	 left:30%;
+	 color:white;
+	 padding:0px;
+}
